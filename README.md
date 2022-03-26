@@ -1,2 +1,0 @@
-# graivtiy
-flip grav
